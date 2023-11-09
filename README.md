@@ -9,11 +9,12 @@
 
 <div align = center>
   <h3>Lenguajes que utilizo o con los que tengo conocimiento y experiencia 👁️</h3>
-  <img src="https://skillicons.dev/icons?i=py,java,js,html" />
-  <h3>Lenguajes, programas y/o Frameworks que quisiera dominar</h3>
-  <img src="https://skillicons.dev/icons?i=php,laravel,ruby,mongodb,mysql,nodejs,django,vuejs,flask" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql" />
+  <h3>Lenguajes, programas y/o Frameworks que quisiera dominar 🙏🏻</h3>
+  <img src="https://skillicons.dev/icons?i=php,laravel,ruby,mongodb,nodejs,django,vuejs,flask" />
 </div>
 
+<br>
 <div>
   <h3 align = center>Mis Estadisticas ⚙️</h3>
   <p align = center>
